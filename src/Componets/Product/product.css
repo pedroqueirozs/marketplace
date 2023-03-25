@@ -1,0 +1,13 @@
+.cardContainer {
+  display: flex;
+}
+.cardIten {
+  border: 1px solid rgb(246, 235, 235);
+  max-height: 350px;
+  width: 250px;
+  margin-right: 5px;
+  text-align: center;
+}
+.cardIten img {
+  width: 150px;
+}
